@@ -1,4 +1,5 @@
-//Mihaicuta Iulia 314CA 2021 - 2022
+*** Mihaicuta Iulia 314CA 2021 - 2022 ***
+** Image Editor **
 The program aims to implement a photo editor that can fulfill
 certain commands, namely:
 - select a portion of the image
